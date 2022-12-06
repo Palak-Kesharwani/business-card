@@ -1,0 +1,32 @@
+﻿body {
+    
+    
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    
+    
+    
+}
+.pic-img {
+    width: 200px;
+    
+    height:300px;
+}
+.content {
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+}
+.intro-text {
+    font-size:25px;
+    font-family:'Times New Roman';
+    text-align:center;
+    padding: 20px;
+    
+
+
+}
